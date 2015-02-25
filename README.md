@@ -18,4 +18,9 @@ var sometimeInThePast = new Date('1/1/1983')
 isAfter(now, sometimeInThePast) // true
 ```
 
-## tests tk
+## tests
+
+```sh
+$ npm install
+$ npm test
+```
