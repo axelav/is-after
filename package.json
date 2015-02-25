@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git://github.com/axelav/is-after.git"
   },
+  "scripts": {
+    "test": "node test.js"
+  },
   "main": "index.js",
   "homepage": "https://github.com/axelav/is-after",
   "author": {
@@ -24,5 +27,8 @@
     "duration",
     "timespan",
     "after"
-  ]
+  ],
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
 }
