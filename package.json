@@ -29,6 +29,6 @@
     "after"
   ],
   "devDependencies": {
-    "tape": "^3.5.0"
+    "tape": "^4.6.2"
   }
 }
